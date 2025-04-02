@@ -1,5 +1,5 @@
 const buttonsounds={
-    'w drum':"/sounds/crash.mp3",
+    'w drum':"Projects/Drum-kit/sounds/crash.mp3",
     'a drum':"/sounds/kick-bass.mp3",
     's drum':"/sounds/snare.mp3",
     'd drum':"/sounds/tom-1.mp3",
